@@ -8,6 +8,9 @@ React Native Application to click Selfies and store it in a list of previous cli
 - [Android Studio and Android SDK](https://developer.android.com/studio)
 - [yarn](https://classic.yarnpkg.com/en/docs/getting-started) (package manager)
 
+## Developing Environment
+- [Windows](https://www.microsoft.com/en-us/windows)
+
 ## Tested Environment
 - [Android Device](https://www.android.com/phones-tablets/) => Physical Device
 
