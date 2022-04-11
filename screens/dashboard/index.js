@@ -65,7 +65,8 @@ const Dashboard = ({navigation}) => {
           contentContainerStyle={styles.scrollContainerStyle}
           horizontal={false}>
           {
-          listImage.map((item, index) => {
+          
+          dateTime.map((item, index) => {
             const Time = new Date(dateTime[index]);
             return (
               <View
